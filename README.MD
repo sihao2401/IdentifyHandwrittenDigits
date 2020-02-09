@@ -3,13 +3,13 @@
 
 1. File List:
 
-Final report.pdf        # Final report
-pendigits.tes           # Testing set
-pendigits.tra           # Training set 
-CNN.py                  # Model of C - Nerual Network 
-SVM.py                  # Model of Support vector machine 
-KNN.py                  # Model of K-nearest neighbor
-LR.py                   # Model of Logistic Regression
+- Final report.pdf        # Final report
+- pendigits.tes           # Testing set
+- pendigits.tra           # Training set 
+- CNN.py                  # Model of C - Nerual Network 
+- SVM.py                  # Model of Support vector machine 
+- KNN.py                  # Model of K-nearest neighbor
+- LR.py                   # Model of Logistic Regression
 
 
 2. How to Run the Program
